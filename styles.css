@@ -5,8 +5,5 @@
 }
 
 .about-image img {
-  width: 250px;       
-  height: auto;
-  image-rendering: auto;
-  border-radius: 50%; 
+  image-rendering: high-quality;
 }
