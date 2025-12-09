@@ -7,12 +7,16 @@ about:
   image-shape: round
   image-width: 17em
   links:
+    - text: CV
+      href: media/Mast_CV.pdf
     - text: LinkedIn
       href: https://www.linkedin.com/in/colin-mast-1a7711234
     - text: GitHub
       href: https://github.com/ColinMast
     - text: Email
       href: mailto:colin.mast@colostate.edu
+    - text: Website Source Code
+      href: https://github.com/ColinMast/ColinMast.github.io
 ---
 
 Forest Ecology | Biogeography | Remote Sensing | GIS

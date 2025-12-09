@@ -3,3 +3,7 @@
   text-indent: -2em;
   margin-bottom: 1em;
 }
+
+.about-image img {
+  image-rendering: high-quality;
+}
