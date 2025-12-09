@@ -1,11 +1,22 @@
 ---
-title: "ColinMast.github.io"
+title: "Colin Mast"
+image: media/CM_FortCollins.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/colin-mast-1a7711234
+    - text: GitHub
+      href: https://github.com/ColinMast
+    - text: Email
+      href: mailto:colin.mast@colostate.edu
 ---
 
-This is a Quarto website.
+Forest Ecology | Biogeography | Remote Sensing | GIS
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+  My name is Colin and I am a Forest Science PhD student in the Francis Lab in Colorado State University's Warner College of Natural Resources. My research integrates field-based measurements with remotely sensed observations to model changes in forest structure and function under management, natural disturbances, and climate change. Visit the about page to learn more about me. 
+
