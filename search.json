@@ -7,11 +7,25 @@
     "text": "Growing up in a small town in southern Wisconsin, I spent much of my childhood exploring the local forests. In 2022, I received my B.S. in Geography and Environmental Studies with a minor in Mathematics from the University of Wisconsin-Madison. While there, I worked on several research projects, including mapping the Wildland-Urban Interface (WUI), assessing wildfire risk in the Sierra Nevada, and creating regional maps to promote sustainable forestry in Argentina. After graduating, I spent a summer conducting dendrochronology fieldwork in the Oregon Coast Range.\nIn 2024, I received my M.S. in Geography from the University of Oregon. My research focused on modeling forest landscapes using LANDIS-II. My thesis assessed how an experimental forest management plan may impact timber production, wildlife habitat, vegetative diversity, and carbon storage under climate change and interacting disturbances. I also collaborated with three groups of forest ecosystem modelers to compare the behavior and utility of three forest models (FVS BioSum, ED2, and LANDIS-II) for projecting the effects of climate change, management, and disturbance on West Coast forests. Finally, I worked with collaborators from IIASA and the USDA FS Northern Research Station to assess the sustainability and impact of timber production in Siberia under climate change.\nI am currently pursuing a Ph.D. in Forest Science at Colorado State University. My research utilizes ground measurements from field campaigns and the USFS’s Forest Inventory and Analysis plot network, as well as large-scale LiDAR data, to train a Sentinel-2 model that will predict forest structure and composition in forests of northern New Mexico. This model will aid in treatment planning and monitoring within the Carson and Santa Fe National Forests. I am also building on previous modeling efforts to assess the impact of climatic departure, topography, fuel availability, heterogeneity, and connectivity on the extent of high severity wildfire in the Western United States."
   },
   {
-    "objectID": "about2.html",
-    "href": "about2.html",
-    "title": "Colin Mast",
+    "objectID": "field.html",
+    "href": "field.html",
+    "title": "Field",
     "section": "",
-    "text": "About\n\n\nGrowing up in a small town in southern Wisconsin, I spent much of my childhood exploring the local forests. In 2022, I received my B.S. in Geography and Environmental Studies with a minor in Mathematics from the University of Wisconsin-Madison. While there, I worked on several research projects, including mapping the Wildland-Urban Interface (WUI), assessing wildfire risk in the Sierra Nevada, and creating regional maps to promote sustainable forestry in Argentina. After graduating, I spent a summer conducting dendrochronology fieldwork in the Oregon Coast Range.\nIn 2024, I received my M.S. in Geography from the University of Oregon. My research focused on modeling forest landscapes using LANDIS-II. My thesis assessed how an experimental forest management plan may impact timber production, wildlife habitat, vegetative diversity, and carbon storage under climate change and interacting disturbances. I also collaborated with three groups of forest ecosystem modelers to compare the behavior and utility of three forest models (FVS BioSum, ED2, and LANDIS-II) for projecting the effects of climate change, management, and disturbance on West Coast forests. Finally, I worked with collaborators from IIASA and the USDA FS Northern Research Station to assess the sustainability and impact of timber production in Siberia under climate change.\nI am currently pursuing a Ph.D. in Forest Science at Colorado State University. My research utilizes ground measurements from field campaigns and the USFS’s Forest Inventory and Analysis plot network, as well as large-scale LiDAR data, to train a Sentinel-2 model that will predict forest structure and composition in forests of northern New Mexico. This model will aid in treatment planning and monitoring within the Carson and Santa Fe National Forests. I am also building on previous modeling efforts to assess the impact of climatic departure, topography, fuel availability, heterogeneity, and connectivity on the extent of high severity wildfire in the Western United States."
+    "text": "In the summer of 2022, I had the opportunity to work for three months as a field technician with a team hired by Oregon State University’s College of Forestry. Our primary task was to collect tree cores and fire scars within the Elliott State Forest. The goal of our work was to reconstruct the fire history of the region in order to better understand how fire has influenced forest succession over time.\n\n\n\n\n\n\nAverage morning conditions in the Elliott with heavy fog rolling in off the coast.\n\n\n\n\n\n\n\nSampling stump cross sections in search of fire scars.\n\n\n\n\n\n\n\n\n\n\n\nWorking our way to a field site. Ferns helped provide handholds in steeper terrain.\n\n\n\n\n\n\n\nSetting up gear at coring site (plot stakes, increment borers, GPS, DBH tapes, range finders, and hatches).\n\n\n\n\n\n\n\nLarge Douglas-firs required two-person teams to quickly acquire cores."
+  },
+  {
+    "objectID": "field.html#reconstructing-fire-history-of-the-elliott-state-forest",
+    "href": "field.html#reconstructing-fire-history-of-the-elliott-state-forest",
+    "title": "Field",
+    "section": "",
+    "text": "In the summer of 2022, I had the opportunity to work for three months as a field technician with a team hired by Oregon State University’s College of Forestry. Our primary task was to collect tree cores and fire scars within the Elliott State Forest. The goal of our work was to reconstruct the fire history of the region in order to better understand how fire has influenced forest succession over time.\n\n\n\n\n\n\nAverage morning conditions in the Elliott with heavy fog rolling in off the coast.\n\n\n\n\n\n\n\nSampling stump cross sections in search of fire scars.\n\n\n\n\n\n\n\n\n\n\n\nWorking our way to a field site. Ferns helped provide handholds in steeper terrain.\n\n\n\n\n\n\n\nSetting up gear at coring site (plot stakes, increment borers, GPS, DBH tapes, range finders, and hatches).\n\n\n\n\n\n\n\nLarge Douglas-firs required two-person teams to quickly acquire cores."
+  },
+  {
+    "objectID": "field.html#establishing-a-glacial-weather-station",
+    "href": "field.html#establishing-a-glacial-weather-station",
+    "title": "Field",
+    "section": "Establishing a glacial weather station",
+    "text": "Establishing a glacial weather station\nIn July 2023, I had the opportunity to join a team of cryosphere scientists to assist with improving glacial modeling for Haden Glacier, located between Middle and North Sister in Oregon. During the fieldwork, we set up an automated weather station and drilled three ablation stakes into the glacier. This research aims to enhance our understanding of the glacier’s behavior and contribute valuable data on its role in the local water cycle. The findings will help inform city planners and land managers about the glacier’s contribution to water resources for surrounding communities.\n\n\n\n\n\n\nThis weather station will provide weather data for Hayden Glacier at a fine temporal resolution, supporting glacial modeling of ablation and water supply to Bend OR.\n\n\n\n\n\n\n\nThe crew adjusting to their equipment loads at trailhead."
   },
   {
     "objectID": "index.html",
@@ -21,10 +35,24 @@
     "text": "Forest Ecology | Biogeography | Remote Sensing | GIS\nMy name is Colin and I am a Forest Science PhD student in the Francis Lab in Colorado State University’s Warner College of Natural Resources. My research integrates field-based measurements with remotely sensed observations to model changes in forest structure and function under management, natural disturbances, and climate change. Visit the about page to learn more about me."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
+    "objectID": "teaching.html#guest-lectures",
+    "href": "teaching.html#guest-lectures",
     "title": "Teaching",
-    "section": "",
-    "text": "Wow testing NEW"
+    "section": "Guest Lectures",
+    "text": "Guest Lectures\nFa 2025 — Forestry 321: Forest and Natural Resource Biometry\nFa 2024 — Forestry 321: Forest and Natural Resource Biometry\nWi 2024 — Environmental Studies 410: Landscape Ecology\nFa 2023 — Geography 482/582: Geographic Information Science II"
+  },
+  {
+    "objectID": "teaching.html#lab-instruction",
+    "href": "teaching.html#lab-instruction",
+    "title": "Teaching",
+    "section": "Lab Instruction",
+    "text": "Lab Instruction\nFa 2024 — Forestry 321: Forest and Natural Resource Biometry\nSp 2024 — Geography 489: Mapping with Drones\nFa 2023 — Geography 482/582: Geographic Information Science II\nSp 2023 — Geography 410L/510L: Mapping with Drones\nWi 2023 — Geography 141: Natural Environment\nFa 2022 — Geography 323: Biogeography"
+  },
+  {
+    "objectID": "teaching.html#workshop-instruction",
+    "href": "teaching.html#workshop-instruction",
+    "title": "Teaching",
+    "section": "Workshop Instruction",
+    "text": "Workshop Instruction\nFa 2023 — Geography 608: Graduate Student Workshop\nWi 2023 — LANDIS-II Base Fire Calibration Training"
   }
 ]
