@@ -9,13 +9,13 @@ website:
         text: Home
       - about.qmd
       - teaching.qmd
+      - field.qmd
+      - publications.qmd
+      - research.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
-
-
-
 

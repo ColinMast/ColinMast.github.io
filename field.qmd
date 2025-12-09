@@ -1,0 +1,66 @@
+---
+title: "Field"
+editor: visual
+---
+
+## Reconstructing fire history of the Elliott State Forest
+
+In the summer of 2022, I had the opportunity to work for three months as a field technician with a team hired by Oregon State University's College of Forestry. Our primary task was to collect tree cores and fire scars within the Elliott State Forest. The goal of our work was to reconstruct the fire history of the region in order to better understand how fire has influenced forest succession over time. 
+
+
+::: {layout-ncol=2}
+![Average morning conditions in the Elliott with heavy fog rolling in off the coast.](media/Fog.jpg)
+
+![Sampling stump cross sections in search of fire scars.](media/FireScars.jpg)
+:::
+
+
+::: {layout-ncol=3}
+![Working our way to a field site. Ferns helped provide handholds in steeper terrain.](media/Crew.jpg)
+
+![Setting up gear at coring site (plot stakes, increment borers, GPS, DBH tapes, range finders, and hatches).](media/Equipment.jpg)
+
+![Large Douglas-firs required two-person teams to quickly acquire cores.](media/Coring.jpg)
+:::
+
+## Establishing a glacial weather station 
+
+In July 2023, I had the opportunity to join a team of cryosphere scientists to assist with improving glacial modeling for Haden Glacier, located between Middle and North Sister in Oregon. During the fieldwork, we set up an automated weather station and drilled three ablation stakes into the glacier. This research aims to enhance our understanding of the glacier’s behavior and contribute valuable data on its role in the local water cycle. The findings will help inform city planners and land managers about the glacier’s contribution to water resources for surrounding communities. 
+
+::: {layout-ncol=2}
+![This weather station will provide weather data for Hayden Glacier at a fine temporal resolution, supporting glacial modeling of ablation and water supply to Bend OR.](media/WS_complete.jpg)
+
+![The crew adjusting to their equipment loads at trailhead. ](media/WS_poles.jpg)
+:::
+
+::: {layout-ncol=2}
+![The first leg of our journey was fairly flat, but downed logs in the Pole Creek fire made traversing the trail difficult.](media/PoleCreekFire.jpg)
+
+![After camping for the night we left tree line and made our way to the glacier. High elevation and a lack of tree cover necessitated frequent rest stops.](media/Nap.jpg)
+:::
+
+::: {layout-ncol=3}
+![Steep glacial terrain made for slow going, requiring microspikes.](media/Climb.jpg)
+
+![Stakes were established at three elevations to assess ablation.](media/IceCore.jpg)
+
+![Once at the top, it was a race against the sunset to set up our weather station.](media/WS_setup.jpg)
+:::
+
+## Surveying coastal redwood locations
+
+In October 2024, I joined fellow FRANCIS lab member Subham Banerjee to survey canopy composition across the northern range of the Coastal Redwoods. We traveled from Brookings, Oregon, to Santa Rosa, California, sampling over 400 plots across 11 State and National Parks. The data we collected will be used to train and validate a satellite model to predict the spatial distribution of redwood trees in California and Oregon, supporting ongoing conservation efforts. 
+
+::: {layout-ncol=2}
+![Collecting a GPS location under a western hemlock that has almost outgrown its nurse log.](media/WesternHemlock.jpg)
+
+![Canopy openings allow deciduous species, like this alien-looking bigleaf maple, to grow to impressive sizes.](media/Maple.jpg)
+:::
+
+::: {layout-ncol=3}
+![Field lead, Subham, thankful for the lack of rain as he downloads the GPS data to his laptop.](media/NeedADesk.jpg)
+
+![The occurrence of massive fire scars exemplify the resilience of coastal redwoods.](media/Redwood.jpg)
+
+![Fallen redwoods made for convenient river crossing.](media/BridgeCrossing.jpg)
+:::

@@ -7,6 +7,34 @@
     "text": "Growing up in a small town in southern Wisconsin, I spent much of my childhood exploring the local forests. In 2022, I received my B.S. in Geography and Environmental Studies with a minor in Mathematics from the University of Wisconsin-Madison. While there, I worked on several research projects, including mapping the Wildland-Urban Interface (WUI), assessing wildfire risk in the Sierra Nevada, and creating regional maps to promote sustainable forestry in Argentina. After graduating, I spent a summer conducting dendrochronology fieldwork in the Oregon Coast Range.\nIn 2024, I received my M.S. in Geography from the University of Oregon. My research focused on modeling forest landscapes using LANDIS-II. My thesis assessed how an experimental forest management plan may impact timber production, wildlife habitat, vegetative diversity, and carbon storage under climate change and interacting disturbances. I also collaborated with three groups of forest ecosystem modelers to compare the behavior and utility of three forest models (FVS BioSum, ED2, and LANDIS-II) for projecting the effects of climate change, management, and disturbance on West Coast forests. Finally, I worked with collaborators from IIASA and the USDA FS Northern Research Station to assess the sustainability and impact of timber production in Siberia under climate change.\nI am currently pursuing a Ph.D. in Forest Science at Colorado State University. My research utilizes ground measurements from field campaigns and the USFS’s Forest Inventory and Analysis plot network, as well as large-scale LiDAR data, to train a Sentinel-2 model that will predict forest structure and composition in forests of northern New Mexico. This model will aid in treatment planning and monitoring within the Carson and Santa Fe National Forests. I am also building on previous modeling efforts to assess the impact of climatic departure, topography, fuel availability, heterogeneity, and connectivity on the extent of high severity wildfire in the Western United States."
   },
   {
+    "objectID": "field.html",
+    "href": "field.html",
+    "title": "Field",
+    "section": "",
+    "text": "In the summer of 2022, I had the opportunity to work for three months as a field technician with a team hired by Oregon State University’s College of Forestry. Our primary task was to collect tree cores and fire scars within the Elliott State Forest. The goal of our work was to reconstruct the fire history of the region in order to better understand how fire has influenced forest succession over time.\n\n\n\n\n\n\nAverage morning conditions in the Elliott with heavy fog rolling in off the coast.\n\n\n\n\n\n\n\nSampling stump cross sections in search of fire scars.\n\n\n\n\n\n\n\n\n\n\n\nWorking our way to a field site. Ferns helped provide handholds in steeper terrain.\n\n\n\n\n\n\n\nSetting up gear at coring site (plot stakes, increment borers, GPS, DBH tapes, range finders, and hatches).\n\n\n\n\n\n\n\nLarge Douglas-firs required two-person teams to quickly acquire cores."
+  },
+  {
+    "objectID": "field.html#reconstructing-fire-history-of-the-elliott-state-forest",
+    "href": "field.html#reconstructing-fire-history-of-the-elliott-state-forest",
+    "title": "Field",
+    "section": "",
+    "text": "In the summer of 2022, I had the opportunity to work for three months as a field technician with a team hired by Oregon State University’s College of Forestry. Our primary task was to collect tree cores and fire scars within the Elliott State Forest. The goal of our work was to reconstruct the fire history of the region in order to better understand how fire has influenced forest succession over time.\n\n\n\n\n\n\nAverage morning conditions in the Elliott with heavy fog rolling in off the coast.\n\n\n\n\n\n\n\nSampling stump cross sections in search of fire scars.\n\n\n\n\n\n\n\n\n\n\n\nWorking our way to a field site. Ferns helped provide handholds in steeper terrain.\n\n\n\n\n\n\n\nSetting up gear at coring site (plot stakes, increment borers, GPS, DBH tapes, range finders, and hatches).\n\n\n\n\n\n\n\nLarge Douglas-firs required two-person teams to quickly acquire cores."
+  },
+  {
+    "objectID": "field.html#establishing-a-glacial-weather-station",
+    "href": "field.html#establishing-a-glacial-weather-station",
+    "title": "Field",
+    "section": "Establishing a glacial weather station",
+    "text": "Establishing a glacial weather station\nIn July 2023, I had the opportunity to join a team of cryosphere scientists to assist with improving glacial modeling for Haden Glacier, located between Middle and North Sister in Oregon. During the fieldwork, we set up an automated weather station and drilled three ablation stakes into the glacier. This research aims to enhance our understanding of the glacier’s behavior and contribute valuable data on its role in the local water cycle. The findings will help inform city planners and land managers about the glacier’s contribution to water resources for surrounding communities.\n\n\n\n\n\n\nThis weather station will provide weather data for Hayden Glacier at a fine temporal resolution, supporting glacial modeling of ablation and water supply to Bend OR.\n\n\n\n\n\n\n\nThe crew adjusting to their equipment loads at trailhead.\n\n\n\n\n\n\n\n\n\n\n\nThe first leg of our journey was fairly flat, but downed logs in the Pole Creek fire made traversing the trail difficult.\n\n\n\n\n\n\n\nAfter camping for the night we left tree line and made our way to the glacier. High elevation and a lack of tree cover necessitated frequent rest stops.\n\n\n\n\n\n\n\n\n\n\n\nSteep glacial terrain made for slow going, requiring microspikes.\n\n\n\n\n\n\n\nStakes were established at three elevations to assess ablation.\n\n\n\n\n\n\n\nOnce at the top, it was a race against the sunset to set up our weather station."
+  },
+  {
+    "objectID": "field.html#surveying-coastal-redwood-locations",
+    "href": "field.html#surveying-coastal-redwood-locations",
+    "title": "Field",
+    "section": "Surveying coastal redwood locations",
+    "text": "Surveying coastal redwood locations\nIn October 2024, I joined fellow FRANCIS lab member Subham Banerjee to survey canopy composition across the northern range of the Coastal Redwoods. We traveled from Brookings, Oregon, to Santa Rosa, California, sampling over 400 plots across 11 State and National Parks. The data we collected will be used to train and validate a satellite model to predict the spatial distribution of redwood trees in California and Oregon, supporting ongoing conservation efforts.\n\n\n\n\n\n\nCollecting a GPS location under a western hemlock that has almost outgrown its nurse log.\n\n\n\n\n\n\n\nCanopy openings allow deciduous species, like this alien-looking bigleaf maple, to grow to impressive sizes.\n\n\n\n\n\n\n\n\n\n\n\nField lead, Subham, thankful for the lack of rain as he downloads the GPS data to his laptop.\n\n\n\n\n\n\n\nThe occurrence of massive fire scars exemplify the resilience of coastal redwoods.\n\n\n\n\n\n\n\nFallen redwoods made for convenient river crossing."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Colin Mast",
@@ -14,10 +42,80 @@
     "text": "Forest Ecology | Biogeography | Remote Sensing | GIS\nMy name is Colin and I am a Forest Science PhD student in the Francis Lab in Colorado State University’s Warner College of Natural Resources. My research integrates field-based measurements with remotely sensed observations to model changes in forest structure and function under management, natural disturbances, and climate change. Visit the about page to learn more about me."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Wow testing"
+    "text": "Mast CN, Vallet L, Zald H, Hurteau MD, Jones GM, Woolsey GA, Tinkham WT, Hoffman CM, Francis EJ. “Methods and implications of canopy base height characterization for modeling crown fire potential.” Manuscript in preparation.\n\n\nVallet L, Mast CN, Banerjee S, Zald H, Hurteau MD, Jones GM, Francis EJ. “Operational LiDAR-Trained Sentinel Workflow for Mapping Forest Structure, Cover, and Fuel.” Manuscript in preparation.\n\n\nBanerjee A, Mast CN, Francis EJ. “Mapping Coastal Redwoods (Sequoia sempervirens) across their natural range: An-updateable and field-validated distribution map using Sentinel satellite data and cloud computing.” GI Science and Remote Sensing (2026).\n\n\nGustafson EJ, Lucash MS, Shvidenko AZ, Sturtevant BR, Schepaschenko D, Mast CN & Williams NG. “Climate change threatens the sustainability of current timber harvesting practices across a latitudinal gradient in Siberia.” European Journal of Forest Research (2025). https://doi.org/10.1007/s10342-025-01782-5\n\n\nMast CN, Williams NG, Betts MG, and Lucash MS. “Land sharing, land sparing, and Triad forestry: modeling forest composition, diversity, and carbon storage under climate change and natural disturbances.” Landscape Ecology (2025). https://doi.org/10.1007/s10980-024-02041-5\n\n\nLucash MS, Mast CN, Williams NG, Strimbu BM, West T “Landscape level planning: a modeling approach.” In: Oregon State University College of Forestry (ed) Elliott state research forest management plan. (2023) Oregon State University, Corvallis, pp 99–119. https://www.forestry.oregonstate.edu/elliott-state-forest/forest-management-plan."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Vary across a climatic gradient in Western US conifer forests\n\nHigh-severity wildfires are a growing concern in the Western U.S. due to climate-driven fire season expansion and increased fuel loading and continuity from decades of fire exclusion. However, it remains unclear how the relative influence of fuels versus climatic departure on high severity burn area vary across long-term climate gradients. We delineated CWD-defined climate regions (mesic, intermediate, xeric) and evaluated how fuel availability, heterogeneity, connectivity, topography, and climatic departure influence extreme (95th percentile) high-severity burn area in over 4,000 burned conifer watersheds from 1986 to 2024. Fuel variables were important across all regions but had the strongest effects in xeric watersheds. Short-term climatic departure (VPD during the month of ignition) was also an important driver in xeric systems but played a minor role in mesic forests. Conversely, long-term climatic departure (five-year CWD) was the strongest predictor in mesic forests, suggesting that multi-year drought is particularly influential in these infrequent-fire regimes. Our results demonstrate that the drivers of high-severity burn area vary predictably across CWD-defined climate gradients and highlight the need for region-specific strategies to manage large, high-severity fires.\n\n\n\nResearch in progress."
+  },
+  {
+    "objectID": "research.html#drivers-of-high-severity-burn-area",
+    "href": "research.html#drivers-of-high-severity-burn-area",
+    "title": "Research",
+    "section": "",
+    "text": "Vary across a climatic gradient in Western US conifer forests\n\nHigh-severity wildfires are a growing concern in the Western U.S. due to climate-driven fire season expansion and increased fuel loading and continuity from decades of fire exclusion. However, it remains unclear how the relative influence of fuels versus climatic departure on high severity burn area vary across long-term climate gradients. We delineated CWD-defined climate regions (mesic, intermediate, xeric) and evaluated how fuel availability, heterogeneity, connectivity, topography, and climatic departure influence extreme (95th percentile) high-severity burn area in over 4,000 burned conifer watersheds from 1986 to 2024. Fuel variables were important across all regions but had the strongest effects in xeric watersheds. Short-term climatic departure (VPD during the month of ignition) was also an important driver in xeric systems but played a minor role in mesic forests. Conversely, long-term climatic departure (five-year CWD) was the strongest predictor in mesic forests, suggesting that multi-year drought is particularly influential in these infrequent-fire regimes. Our results demonstrate that the drivers of high-severity burn area vary predictably across CWD-defined climate gradients and highlight the need for region-specific strategies to manage large, high-severity fires.\n\n\n\nResearch in progress."
+  },
+  {
+    "objectID": "research.html#satellite-derived-geospatial-fuel-products",
+    "href": "research.html#satellite-derived-geospatial-fuel-products",
+    "title": "Research",
+    "section": "Satellite-derived Geospatial Fuel Products",
+    "text": "Satellite-derived Geospatial Fuel Products\n\nTo aid Upper Rio Grande fuel treatment planning\n\nDry forests in the western US are exposed to heightened risks of large high-severity fires and limited forest regeneration as a result of fire exclusion and climate change. Given significant limitations on time and resources for implementing and monitoring fuel treatments, availability of up-to-date, accurate, high-resolution, and updateable data products characterizing forest structure and fuel conditions could make a meaningful contribution to strategic planning and monitoring of fuel treatments. To aid in fuel treatment planning in Northern New Mexico, we are developing geospatial data products characterizing forest structure and fuel conditions by training satellite synthetic aperture radar (SAR) and multispectral imagery using measurements of forest structure and fuel conditions derived from airborne lidar and forest inventory plot data.\n\n\n\nResearch in progress."
+  },
+  {
+    "objectID": "research.html#methods-of-cbh-characterization",
+    "href": "research.html#methods-of-cbh-characterization",
+    "title": "Research",
+    "section": "Methods of CBH Characterization",
+    "text": "Methods of CBH Characterization\n\nVary across data source and summary method\n\nCanopy base height is an integral variable in wildfire behavior modeling. However, as fire models have been applied to increasingly diverse forest structures and as remote sensing technologies have advanced, a variety of methods for characterizing CBH have emerged. In this project, we summarize the primary approaches for CBH characterization using field observation, airborne LiDAR, and satellite-based machine learning models, highlighting their assumptions, scales, and limitations. We then apply these methods across 100 field sites within four forest types in northern New Mexico to evaluate how method choice and forest structure influence CBH characterization. These CBH measurements were then applied in Rothermel-based models to compare methodological effects on predicted torching indices.\n\n\n\nResearch in review."
+  },
+  {
+    "objectID": "research.html#future-drought-impacts",
+    "href": "research.html#future-drought-impacts",
+    "title": "Research",
+    "section": "Future Drought Impacts",
+    "text": "Future Drought Impacts\n\nin the Oregon Coast Range\n\nThe Coast Range of Oregon is one of the most productive ecosystems globally, acting as an important store of carbon and source of timber products. However, drought risk is expected to increase during the twenty-first century, especially in the southern Coast Range. This may have important implications for the growth and recruitment of drought-intolerant species such as western hemlock and western redcedar. To investigate the potential affects future climates may have on species growth and recruitment, I am working with a group of researchers at the University of Oregon to model forest succession in the Coast Range using the forest landscape model, LANDIS-II.\n\n\n\nResearch in progress."
+  },
+  {
+    "objectID": "research.html#siberian-timber-sustainability",
+    "href": "research.html#siberian-timber-sustainability",
+    "title": "Research",
+    "section": "Siberian Timber Sustainability",
+    "text": "Siberian Timber Sustainability\n\nEcosystem Services under Climate Change\n\nThe boreal forests of Eurasia form the largest contiguous terrestrial biome in the world, providing numerous ecosystem functions and services for human societies. Temperatures are increasing most rapidly in high northern latitudes, altering tree growth and competition dynamics, and modifying disturbance regimes. The effect of these cumulative changes on the ecosystem functions provided by boreal forests is difficult to predict. We used the process-based LANDIS-II forest landscape model to evaluate how climate change and timber harvesting will interact to alter the production of ecosystem goods and services in boreal forests on three study areas across a large latitudinal gradient in central Siberia.\n\n\n\nRead more here: https://doi.org/10.1007/s10342-025-01782-5"
+  },
+  {
+    "objectID": "research.html#balancing-ecosystem-services-in-the-elliott-state-research-forest",
+    "href": "research.html#balancing-ecosystem-services-in-the-elliott-state-research-forest",
+    "title": "Research",
+    "section": "Balancing Ecosystem Services in the Elliott State Research Forest",
+    "text": "Balancing Ecosystem Services in the Elliott State Research Forest\n\nLand sharing vs sparing vs Triad forestry\n\nThe Elliott State Forest, Oregon’s oldest state forest, has long been at the center of debate over public land management. One proposed resolution is the establishment of the Elliott State Research Forest (ESRF), designed to balance timber production, climate change mitigation, endangered species conservation, and recreation. Supported by the Oregon Department of State Lands and in collaboration with Oregon State University, this project contributed to the development of the ESRF’s forest management plan. At the center of this plan is the experimental comparison of land sharing, land sparing, and Triad management. Using LANDIS-II, we simulated forest successional processes, management activities, natural disturbances, and multiple climate trajectories to inform sustainable management strategies and compare trade-offs between these three conservation strategies.\n\n\n\nRead more here: https://doi.org/10.1007/s10980-024-02041-5"
+  },
+  {
+    "objectID": "teaching.html#guest-lectures",
+    "href": "teaching.html#guest-lectures",
+    "title": "Teaching",
+    "section": "Guest Lectures",
+    "text": "Guest Lectures\nFa 2025 — Forestry 321: Forest and Natural Resource Biometry\nFa 2024 — Forestry 321: Forest and Natural Resource Biometry\nWi 2024 — Environmental Studies 410: Landscape Ecology\nFa 2023 — Geography 482/582: Geographic Information Science II"
+  },
+  {
+    "objectID": "teaching.html#lab-instruction",
+    "href": "teaching.html#lab-instruction",
+    "title": "Teaching",
+    "section": "Lab Instruction",
+    "text": "Lab Instruction\nFa 2024 — Forestry 321: Forest and Natural Resource Biometry\nSp 2024 — Geography 489: Mapping with Drones\nFa 2023 — Geography 482/582: Geographic Information Science II\nSp 2023 — Geography 410L/510L: Mapping with Drones\nWi 2023 — Geography 141: Natural Environment\nFa 2022 — Geography 323: Biogeography"
+  },
+  {
+    "objectID": "teaching.html#workshop-instruction",
+    "href": "teaching.html#workshop-instruction",
+    "title": "Teaching",
+    "section": "Workshop Instruction",
+    "text": "Workshop Instruction\nFa 2023 — Geography 608: Graduate Student Workshop\nWi 2023 — LANDIS-II Base Fire Calibration Training"
   }
 ]

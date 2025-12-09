@@ -3,4 +3,22 @@ title: "Teaching"
 editor: visual
 ---
 
-Wow testing 
+![](media/TreeFarm.jpg){width="100%"}
+
+## Guest Lectures
+Fa 2025 — Forestry 321: Forest and Natural Resource Biometry  
+Fa 2024 — Forestry 321: Forest and Natural Resource Biometry  
+Wi 2024 — Environmental Studies 410: Landscape Ecology  
+Fa 2023 — Geography 482/582: Geographic Information Science II 
+
+## Lab Instruction
+Fa 2024 — Forestry 321: Forest and Natural Resource Biometry  
+Sp 2024 — Geography 489: Mapping with Drones  
+Fa 2023 — Geography 482/582: Geographic Information Science II  
+Sp 2023 — Geography 410L/510L: Mapping with Drones  
+Wi 2023 — Geography 141: Natural Environment  
+Fa 2022 — Geography 323: Biogeography  
+
+## Workshop Instruction
+Fa 2023 — Geography 608: Graduate Student Workshop  
+Wi 2023 — LANDIS-II Base Fire Calibration Training 

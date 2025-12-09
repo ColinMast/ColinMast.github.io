@@ -1,0 +1,31 @@
+---
+title: "Publications"
+editor: visual
+---
+
+![](media/DouglasFir_Core.jpg){width="100%"}
+
+<div class="hanging-indent">
+Mast CN, Vallet L, Zald H, Hurteau MD, Jones GM, Woolsey GA, Tinkham WT, Hoffman CM, Francis EJ. "Methods and implications of canopy base height characterization for modeling crown fire potential." Manuscript in preparation.  
+</div>
+
+<div class="hanging-indent">
+Vallet L, Mast CN, Banerjee S, Zald H, Hurteau MD, Jones GM, Francis EJ. "Operational LiDAR-Trained Sentinel Workflow for Mapping Forest Structure, Cover, and Fuel." Manuscript in preparation.   
+</div>
+
+<div class="hanging-indent">
+Banerjee A, Mast CN, Francis EJ. "Mapping Coastal Redwoods (Sequoia sempervirens) across their natural range: An-updateable and field-validated distribution map using Sentinel satellite data and cloud computing." GI Science and Remote Sensing (2026).  
+</div>
+
+<div class="hanging-indent">
+Gustafson EJ, Lucash MS, Shvidenko AZ, Sturtevant BR, Schepaschenko D, Mast CN & Williams NG. "Climate change threatens the sustainability of current timber harvesting practices across a latitudinal gradient in Siberia." European Journal of Forest Research (2025). https://doi.org/10.1007/s10342-025-01782-5   
+</div>
+
+<div class="hanging-indent">
+Mast CN, Williams NG, Betts MG, and Lucash MS. "Land sharing, land sparing, and Triad forestry: modeling forest composition, diversity, and carbon storage under climate change and natural disturbances." Landscape Ecology (2025). https://doi.org/10.1007/s10980-024-02041-5 
+</div>
+
+<div class="hanging-indent">
+Lucash MS, Mast CN, Williams NG, Strimbu BM, West T "Landscape level planning: a modeling approach." In: Oregon State University College of Forestry (ed) Elliott state research forest management plan. (2023) Oregon State University, Corvallis, pp 99--119. https://www.forestry.oregonstate.edu/elliott-state-forest/forest-management-plan.  
+</div>
+

@@ -1,23 +1,10 @@
 ---
 title: "About"
-page-image: media/BehindTheVegetation.jpg
-page-banner: true
 toc: false
-format:
-  html:
-    include-in-header:
-      text: |
-        <style>
-          .quarto-title-banner .title {
-            font-size: 3rem;
-            font-weight: 300;
-            color: white;
-          }
-          .quarto-title-banner {
-            margin-bottom: 0;
-          }
-        </style>
 ---
+
+
+![](media/BehindTheVegetation.jpg){width="100%"}
 
 Growing up in a small town in southern Wisconsin, I spent much of my childhood exploring the local forests. In 2022, I received my B.S. in Geography and Environmental Studies with a minor in Mathematics from the University of Wisconsin-Madison. While there, I worked on several research projects, including mapping the Wildland-Urban Interface (WUI), assessing wildfire risk in the Sierra Nevada, and creating regional maps to promote sustainable forestry in Argentina. After graduating, I spent a summer conducting dendrochronology fieldwork in the Oregon Coast Range.
 
