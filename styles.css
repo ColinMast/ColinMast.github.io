@@ -1,22 +1,5 @@
-
-/* CV-style two-column teaching tables */
-.cv-table table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.cv-table th,
-.cv-table td {
-  border: none !important;   /* kill all lines */
-  padding: 0 0 0.3rem 0;     /* small vertical spacing */
-}
-
-/* hide the header row */
-.cv-table thead {
-  display: none;
-}
-
-/* right-align the term column */
-.cv-table td:last-child {
-  text-align: right;
+.hanging-indent {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin-bottom: 1em;
 }
