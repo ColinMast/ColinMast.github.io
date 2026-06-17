@@ -22,5 +22,5 @@ about:
 Forest Ecology | Biogeography | Remote Sensing | GIS
 
 
-  My name is Colin and I am a Forest Science PhD student in the Francis Lab in Colorado State University's Warner College of Natural Resources. My research integrates field-based measurements with remotely sensed observations to model changes in forest structure and function under management, natural disturbances, and climate change. Visit the about page to learn more about me. 
+  My name is Colin and I am a Forest Science PhD candidate in the Francis Lab in Colorado State University's Warner College of Natural Resources. My research integrates field-based measurements with remotely sensed observations to model changes in forest structure and function under management, natural disturbances, and climate change. Visit the about page to learn more about me. 
 

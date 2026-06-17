@@ -16,7 +16,7 @@ In the summer of 2022, I had the opportunity to work for three months as a field
 
 
 ::: {layout-ncol=3}
-![Working our way to a field site. Ferns helped provide handholds in steeper terrain.](media/Crew.jpg)
+![Working our way to a field site. Ferns helped provide handholds in steeper terrain.](media/Crew.JPG)
 
 ![Setting up gear at coring site (plot stakes, increment borers, GPS, DBH tapes, range finders, and hatches).](media/Equipment.jpg)
 
@@ -63,4 +63,22 @@ In October 2024, I joined fellow FRANCIS lab member Subham Banerjee to survey ca
 ![The occurrence of massive fire scars exemplify the resilience of coastal redwoods.](media/Redwood.jpg)
 
 ![Fallen redwoods made for convenient river crossing.](media/BridgeCrossing.jpg)
+:::
+
+## Resurveying post-fuel-treatment forest structure 
+
+In May 2026, joined by fellow FRANCIS lab member Ashley Zwick, I led a week of fieldwork resurveying permanent field plots established by the Colorado Forest Restoration Institute prior to fuel reduction treatments in Monument and Buena Vista Colorado. Our goal was to obtain accurate plot locations to better facilitate the validation of our satellite fuel model, 4D-FUELS, in areas treated with mechanical thinning and prescribed fire. 
+
+::: {layout-ncol=3}
+![Surveying a ponderosa pine gambel oak plot located on a ridge in Monument Colorado. Despite the consumption of aboveground gamble oak biomass by prescibed fire, new shoots are already emerging.](media/Monument.heic)
+
+![Monument rock with dense gambel oak growing to the left.](media/MounumentRock.jpg)
+
+![Snowy conditions at high elevation sites in Buena Vista, Colorado.](media/BuenaVista.heic)
+:::
+
+::: {layout-ncol=2}
+![Dirt road leading up to our Mount Princeton sites.](media/MPR.jpg)
+
+![Sheltering under a ponderosa pine to escape the rain.](media/Rain.jpg)
 :::
