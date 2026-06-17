@@ -14,7 +14,7 @@ Vallet L, Mast CN, Banerjee S, Zald H, Hurteau MD, Jones GM, Francis EJ. "Operat
 </div>
 
 <div class="hanging-indent">
-Banerjee A, Mast CN, Francis EJ. "Mapping Coastal Redwoods (Sequoia sempervirens) across their natural range: An-updateable and field-validated distribution map using Sentinel satellite data and cloud computing." GI Science and Remote Sensing (2026).  
+Banerjee A, Mast CN, Francis EJ. "Mapping Coastal Redwoods (Sequoia sempervirens) across their natural range: An-updateable and field-validated distribution map using Sentinel satellite data and cloud computing." GI Science and Remote Sensing (2026). https://doi.org/10.1080/15481603.2026.2613558 
 </div>
 
 <div class="hanging-indent">

@@ -3,7 +3,7 @@ title: "Teaching"
 editor: visual
 ---
 
-![](media/TreeFarm.jpg){width="100%"}
+![](media/TreeFarm.JPG){width="100%"}
 
 ## Guest Lectures
 Fa 2025 — Forestry 321: Forest and Natural Resource Biometry  
