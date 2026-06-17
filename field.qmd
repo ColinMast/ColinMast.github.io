@@ -70,11 +70,11 @@ In October 2024, I joined fellow FRANCIS lab member Subham Banerjee to survey ca
 In May 2026, joined by fellow FRANCIS lab member Ashley Zwick, I led a week of fieldwork resurveying permanent field plots established by the Colorado Forest Restoration Institute prior to fuel reduction treatments in Monument and Buena Vista Colorado. Our goal was to obtain accurate plot locations to better facilitate the validation of our satellite fuel model, 4D-FUELS, in areas treated with mechanical thinning and prescribed fire. 
 
 ::: {layout-ncol=3}
-![Surveying a ponderosa pine gambel oak plot located on a ridge in Monument Colorado. Despite the consumption of aboveground gamble oak biomass by prescibed fire, new shoots are already emerging.](media/Monument.heic)
+![Surveying a ponderosa pine gambel oak plot located on a ridge in Monument Colorado. Despite the consumption of aboveground gamble oak biomass by prescibed fire, new shoots are already emerging.](media/Monument.jpg)
 
 ![Monument rock with dense gambel oak growing to the left.](media/MounumentRock.jpg)
 
-![Snowy conditions at high elevation sites in Buena Vista, Colorado.](media/BuenaVista.heic)
+![Snowy conditions at high elevation sites in Buena Vista, Colorado.](media/BuenaVista.jpg)
 :::
 
 ::: {layout-ncol=2}
