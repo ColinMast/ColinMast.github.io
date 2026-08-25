@@ -74,11 +74,7 @@ In May 2026, joined by fellow FRANCIS lab member Ashley Zwick, I led a week of f
 
 ![Monument rock with dense gambel oak growing to the left.](media/MounumentRock.jpg)
 
-<<<<<<< HEAD
 ![Snowy conditions at high elevation sites in Buena Vista, Colorado.](media/BuenaVista.jpg)
-=======
-![Snowy conditions at high elevation sites in Buena Vista, Colorado.](media/BuenaVista.heic)
->>>>>>> 85177e5c7b87c3f6512a14bd19f91397f7e6a1c1
 :::
 
 ::: {layout-ncol=2}
