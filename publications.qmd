@@ -6,7 +6,7 @@ editor: visual
 ![](media/DouglasFir_Core.jpg){width="100%"}
 
 <div class="hanging-indent">
-**Mast CN**, Steel ZL, & Francis EJ. "Large high-severity fires in the western US are driven by fuel continuity in dry forests and multi-year aridity in wet or cold forests." Manuscript in review   
+**Mast CN**, Steel ZL, & Francis EJ. "Large high-severity fires in the western US are driven by fuel continuity in dry forests and multi-year aridity in wet or cold forests." Manuscript in preparation.   
 </div>
 
 <div class="hanging-indent">
@@ -18,7 +18,7 @@ Zwick AM, Woodward B, Touma D, Vorster T, **Mast CN**, Banerjee S, & Francis EF.
 </div>
 
 <div class="hanging-indent">
-Vallet L, **Mast CN**, Banerjee S, Zald H, Hurteau MD, Jones GM, & Francis EJ. "Operational LiDAR-Trained Sentinel Workflow for Mapping Forest Structure, Cover, and Fuel." Manuscript in review   
+Vallet L, **Mast CN**, Banerjee S, Zald H, Hurteau MD, Jones GM, & Francis EJ. "Operational LiDAR-Trained Sentinel Workflow for Mapping Forest Structure, Cover, and Fuel." Manuscript in review.   
 </div>
 
 <div class="hanging-indent">
