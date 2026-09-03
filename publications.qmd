@@ -5,6 +5,7 @@ editor: visual
 
 ![](media/DouglasFir_Core.jpg){width="100%"}
 
+## Peer Reviewed Publications
 <div class="hanging-indent">
 **Mast CN**, Steel ZL, & Francis EJ. "Large high-severity fires in the western US are driven by fuel continuity in dry forests and multi-year aridity in wet or cold forests." Manuscript in preparation.   
 </div>
@@ -18,11 +19,11 @@ Zwick AM, Woodward B, Touma D, Vorster T, **Mast CN**, Banerjee S, & Francis EF.
 </div>
 
 <div class="hanging-indent">
-Vallet L, **Mast CN**, Banerjee S, Zald H, Hurteau MD, Jones GM, & Francis EJ. "Operational LiDAR-Trained Sentinel Workflow for Mapping Forest Structure, Cover, and Fuel." Manuscript in review.   
+Vallet L, **Mast CN**, Banerjee S, Zald H, Hurteau MD, Jones GM, & Francis EJ. "4D-FUELS: A LiDAR-to-satellite system for mapping and monitoring forest structure and fuels." Manuscript in review.   
 </div>
 
 <div class="hanging-indent">
-**Mast CN**, Vallet L, Zald H, Hurteau MD, Jones GM, Woolsey GA, Tinkham WT, Hoffman CM, & Francis EJ. "Methods and implications of canopy base height characterization for modeling crown fire potential." Fire Ecology (2026). <https://doi.org/10.1186/s4240>    
+**Mast CN**, Vallet L, Zald H, Hurteau MD, Jones GM, Woolsey GA, Tinkham WT, Hoffman CM, & Francis EJ. "Methods and implications of canopy base height characterization for modeling crown fire potential." Fire Ecology (2026). <https://doi.org/10.1186/s42408-026-00567-4>    
 </div>
 
 <div class="hanging-indent">
@@ -35,6 +36,12 @@ Gustafson EJ, Lucash MS, Shvidenko AZ, Sturtevant BR, Schepaschenko D, **Mast CN
 
 <div class="hanging-indent">
 **Mast CN**, Williams NG, Betts MG, & Lucash MS. "Land sharing, land sparing, and Triad forestry: modeling forest composition, diversity, and carbon storage under climate change and natural disturbances." Landscape Ecology (2025). <https://doi.org/10.1007/s10980-024-02041-5> 
+</div>
+
+
+## Other Publications
+<div class="hanging-indent">
+**Mast CN** "Simulating Forest Dynamics, Disturbance, and Management in the Elliott State Research Forest, Oregon: A Comparative Study of Land Sharing, Land Sparing, and Triad Management." MS Thesis. University of Oregon (2024). <https://scholarsbank.uoregon.edu/bitstreams/3b7ffa0d-378e-41f6-b7e4-bd91e3449620/download>
 </div>
 
 <div class="hanging-indent">
