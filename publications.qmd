@@ -7,11 +7,11 @@ editor: visual
 
 ## Peer Reviewed Publications
 <div class="hanging-indent">
-**Mast CN**, Steel ZL, & Francis EJ. "Large high-severity fires in the western US are driven by fuel continuity in dry forests and multi-year aridity in wet or cold forests." Manuscript in preparation.   
+**Mast CN**, Steel ZL, & Francis EJ. "Large high-severity fires in the western US are driven by fuel continuity in dry forests and multi-year aridity in wet or cold forests." Manuscript in review.   
 </div>
 
 <div class="hanging-indent">
-Swann DEB, Gray AN, Maxwell CJ, Lucash MS, Davidson KJ, Jiang Y, **Mast CN**, Fried JS, Kim JB, & DeLyser K. "Implications of model structure and configuration on simulated forest biomass and carbon dynamics in the Pacific Northwest, USA." Manuscript in preparation.     
+Swann DEB, Gray AN, Maxwell CJ, Lucash MS, Davidson KJ, Jiang Y, **Mast CN**, Fried JS, Kim JB, & DeLyser K. "Implications of model structure and configuration on simulated forest biomass and carbon dynamics in the Pacific Northwest, USA." Manuscript in review.     
 </div>
 
 <div class="hanging-indent">
@@ -19,7 +19,7 @@ Zwick AM, Woodward B, Touma D, Vorster T, **Mast CN**, Banerjee S, & Francis EF.
 </div>
 
 <div class="hanging-indent">
-Vallet L, **Mast CN**, Banerjee S, Zald H, Hurteau MD, Jones GM, & Francis EJ. "4D-FUELS: A LiDAR-to-satellite system for mapping and monitoring forest structure and fuels." Manuscript in review.   
+Vallet L, **Mast CN**, Banerjee S, Zald H, Hurteau MD, Jones GM, & Francis EJ. "4D-FUELS: A LiDAR-to-satellite system for mapping and monitoring forest structure and fuels. Fire Ecology (2026)." <https://doi.org/10.1186/s42408-026-00605-1>   
 </div>
 
 <div class="hanging-indent">

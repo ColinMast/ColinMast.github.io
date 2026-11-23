@@ -1,10 +1,38 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Growing up in a small town in southern Wisconsin, I spent much of my childhood exploring the local forests. In 2022, I received my B.S. in Geography and Environmental Studies with a minor in Mathematics from the University of Wisconsin-Madison. While there, I worked on several research projects, including mapping the Wildland-Urban Interface (WUI), assessing wildfire risk in the Sierra Nevada, and creating regional maps to promote sustainable forestry in Argentina. After graduating, I spent a summer conducting dendrochronology fieldwork in the Oregon Coast Range.\nIn 2024, I received my M.S. in Geography from the University of Oregon. My research focused on modeling forest landscapes using LANDIS-II. My thesis assessed how an experimental forest management plan may impact timber production, wildlife habitat, vegetative diversity, and carbon storage under climate change and interacting disturbances. I also collaborated with three groups of forest ecosystem modelers to compare the behavior and utility of three forest models (FVS BioSum, ED2, and LANDIS-II) for projecting the effects of climate change, management, and disturbance on West Coast forests. Finally, I worked with collaborators from IIASA and the USDA FS Northern Research Station to assess the sustainability and impact of timber production in Siberia under climate change.\nI am currently pursuing a Ph.D. in Forest Science at Colorado State University. My research utilizes ground measurements from field campaigns and the USFS’s Forest Inventory and Analysis plot network, as well as large-scale LiDAR data, to train a Sentinel-2 model that will predict forest structure and composition in forests of northern New Mexico. This model will aid in treatment planning and monitoring within the Carson and Santa Fe National Forests. I am also building on previous modeling efforts to assess the impact of climatic departure, topography, fuel availability, heterogeneity, and connectivity on the extent of high severity wildfire in the Western United States."
+    "objectID": "teaching.html#guest-lectures",
+    "href": "teaching.html#guest-lectures",
+    "title": "Teaching",
+    "section": "Guest Lectures",
+    "text": "Guest Lectures\nFa 2025 — Forestry 321: Forest and Natural Resource Biometry\nFa 2024 — Forestry 321: Forest and Natural Resource Biometry\nWi 2024 — Environmental Studies 410: Landscape Ecology\nFa 2023 — Geography 482/582: Geographic Information Science II"
+  },
+  {
+    "objectID": "teaching.html#lab-instruction",
+    "href": "teaching.html#lab-instruction",
+    "title": "Teaching",
+    "section": "Lab Instruction",
+    "text": "Lab Instruction\nFa 2024 — Forestry 321: Forest and Natural Resource Biometry\nSp 2024 — Geography 489: Mapping with Drones\nFa 2023 — Geography 482/582: Geographic Information Science II\nSp 2023 — Geography 410L/510L: Mapping with Drones\nWi 2023 — Geography 141: Natural Environment\nFa 2022 — Geography 323: Biogeography"
+  },
+  {
+    "objectID": "teaching.html#workshop-instruction",
+    "href": "teaching.html#workshop-instruction",
+    "title": "Teaching",
+    "section": "Workshop Instruction",
+    "text": "Workshop Instruction\nFa 2023 — Geography 608: Graduate Student Workshop\nWi 2023 — LANDIS-II Base Fire Calibration Training"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "Peer Reviewed Publications",
+    "text": "Peer Reviewed Publications\n\nMast CN, Steel ZL, & Francis EJ. “Large high-severity fires in the western US are driven by fuel continuity in dry forests and multi-year aridity in wet or cold forests.” Manuscript in preparation.\n\n\nSwann DEB, Gray AN, Maxwell CJ, Lucash MS, Davidson KJ, Jiang Y, Mast CN, Fried JS, Kim JB, & DeLyser K. “Implications of model structure and configuration on simulated forest biomass and carbon dynamics in the Pacific Northwest, USA.” Manuscript in preparation.\n\n\nZwick AM, Woodward B, Touma D, Vorster T, Mast CN, Banerjee S, & Francis EF. “Wildfire in Fog-Influenced Ecosystems in the Western United States: A Systematic Review and Conceptual Model of Effects of Fog on Fire.” Manuscript in review.\n\n\nVallet L, Mast CN, Banerjee S, Zald H, Hurteau MD, Jones GM, & Francis EJ. “4D-FUELS: A LiDAR-to-satellite system for mapping and monitoring forest structure and fuels.” Manuscript in review.\n\n\nMast CN, Vallet L, Zald H, Hurteau MD, Jones GM, Woolsey GA, Tinkham WT, Hoffman CM, & Francis EJ. “Methods and implications of canopy base height characterization for modeling crown fire potential.” Fire Ecology (2026). https://doi.org/10.1186/s42408-026-00567-4\n\n\nBanerjee A, Mast CN, & Francis EJ. “Mapping Coastal Redwoods (Sequoia sempervirens) across their natural range: An-updateable and field-validated distribution map using Sentinel satellite data and cloud computing.” GI Science and Remote Sensing (2026). https://doi.org/10.1080/15481603.2026.2613558\n\n\nGustafson EJ, Lucash MS, Shvidenko AZ, Sturtevant BR, Schepaschenko D, Mast CN, & Williams NG. “Climate change threatens the sustainability of current timber harvesting practices across a latitudinal gradient in Siberia.” European Journal of Forest Research (2025). https://doi.org/10.1007/s10342-025-01782-5\n\n\nMast CN, Williams NG, Betts MG, & Lucash MS. “Land sharing, land sparing, and Triad forestry: modeling forest composition, diversity, and carbon storage under climate change and natural disturbances.” Landscape Ecology (2025). https://doi.org/10.1007/s10980-024-02041-5"
+  },
+  {
+    "objectID": "publications.html#other-publications",
+    "href": "publications.html#other-publications",
+    "title": "Publications",
+    "section": "Other Publications",
+    "text": "Other Publications\n\nMast CN “Simulating Forest Dynamics, Disturbance, and Management in the Elliott State Research Forest, Oregon: A Comparative Study of Land Sharing, Land Sparing, and Triad Management.” MS Thesis. University of Oregon (2024). https://scholarsbank.uoregon.edu/bitstreams/3b7ffa0d-378e-41f6-b7e4-bd91e3449620/download\n\n\nLucash MS, Mast CN, Williams NG, Strimbu BM, & West T “Landscape level planning: a modeling approach.” In: Oregon State University College of Forestry (ed) Elliott state research forest management plan. (2023) Oregon State University, Corvallis, pp 99–119. https://www.forestry.oregonstate.edu/elliott-state-forest/forest-management-plan"
   },
   {
     "objectID": "field.html",
@@ -42,18 +70,18 @@
     "text": "Resurveying post-fuel-treatment forest structure\nIn May 2026, joined by fellow FRANCIS lab member Ashley Zwick, I led a week of fieldwork resurveying permanent field plots established by the Colorado Forest Restoration Institute prior to fuel reduction treatments in Monument and Buena Vista Colorado. Our goal was to obtain accurate plot locations to better facilitate the validation of our satellite fuel model, 4D-FUELS, in areas treated with mechanical thinning and prescribed fire.\n\n\n\n\n\n\nSurveying a ponderosa pine gambel oak plot located on a ridge in Monument Colorado. Despite the consumption of aboveground gamble oak biomass by prescibed fire, new shoots are already emerging.\n\n\n\n\n\n\n\nMonument rock with dense gambel oak growing to the left.\n\n\n\n\n\n\n\nSnowy conditions at high elevation sites in Buena Vista, Colorado.\n\n\n\n\n\n\n\n\n\n\n\nDirt road leading up to our Mount Princeton sites.\n\n\n\n\n\n\n\nSheltering under a ponderosa pine to escape the rain."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Growing up in a small town in southern Wisconsin, I spent much of my childhood exploring the local forests. In 2022, I received my B.S. in Geography and Environmental Studies with a minor in Mathematics from the University of Wisconsin-Madison. While there, I worked on several research projects, including mapping the Wildland-Urban Interface (WUI), assessing wildfire risk in the Sierra Nevada, and creating regional maps to promote sustainable forestry in Argentina. After graduating, I spent a summer conducting dendrochronology fieldwork in the Oregon Coast Range.\nIn 2024, I received my M.S. in Geography from the University of Oregon. My research focused on modeling forest landscapes using LANDIS-II. My thesis assessed how an experimental forest management plan may impact timber production, wildlife habitat, vegetative diversity, and carbon storage under climate change and interacting disturbances. I also collaborated with three groups of forest ecosystem modelers to compare the behavior and utility of three forest models (FVS BioSum, ED2, and LANDIS-II) for projecting the effects of climate change, management, and disturbance on West Coast forests. Finally, I worked with collaborators from IIASA and the USDA FS Northern Research Station to assess the sustainability and impact of timber production in Siberia under climate change.\nI am currently pursuing a Ph.D. in Forest Science at Colorado State University. My research utilizes ground measurements from field campaigns and the USFS’s Forest Inventory and Analysis plot network, as well as large-scale LiDAR data, to train a Sentinel-2 model that will predict forest structure and composition in forests of northern New Mexico. This model will aid in treatment planning and monitoring within the Carson and Santa Fe National Forests. I am also building on previous modeling efforts to assess the impact of climatic departure, topography, fuel availability, heterogeneity, and connectivity on the extent of high severity wildfire in the Western United States."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Colin Mast",
     "section": "",
     "text": "Forest Ecology | Biogeography | Remote Sensing | GIS\nMy name is Colin and I am a Forest Science PhD candidate in the Francis Lab in Colorado State University’s Warner College of Natural Resources. My research integrates field-based measurements with remotely sensed observations to model changes in forest structure and function under management, natural disturbances, and climate change. Visit the about page to learn more about me."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Mast CN, Steel ZL, & Francis EJ. “Large high-severity fires in the western US are driven by fuel continuity in dry forests and multi-year aridity in wet or cold forests.” Manuscript in preparation.\n\n\nSwann DEB, Gray AN, Maxwell CJ, Lucash MS, Davidson KJ, Jiang Y, Mast CN, Fried JS, Kim JB, & DeLyser K. “Implications of model structure and configuration on simulated forest biomass and carbon dynamics in the Pacific Northwest, USA.” Manuscript in preparation.\n\n\nZwick AM, Woodward B, Touma D, Vorster T, Mast CN, Banerjee S, & Francis EF. “Wildfire in Fog-Influenced Ecosystems in the Western United States: A Systematic Review and Conceptual Model of Effects of Fog on Fire.” Manuscript in review.\n\n\nVallet L, Mast CN, Banerjee S, Zald H, Hurteau MD, Jones GM, & Francis EJ. “Operational LiDAR-Trained Sentinel Workflow for Mapping Forest Structure, Cover, and Fuel.” Manuscript in review.\n\n\nMast CN, Vallet L, Zald H, Hurteau MD, Jones GM, Woolsey GA, Tinkham WT, Hoffman CM, & Francis EJ. “Methods and implications of canopy base height characterization for modeling crown fire potential.” Fire Ecology (2026). https://doi.org/10.1186/s4240\n\n\nBanerjee A, Mast CN, & Francis EJ. “Mapping Coastal Redwoods (Sequoia sempervirens) across their natural range: An-updateable and field-validated distribution map using Sentinel satellite data and cloud computing.” GI Science and Remote Sensing (2026). https://doi.org/10.1080/15481603.2026.2613558\n\n\nGustafson EJ, Lucash MS, Shvidenko AZ, Sturtevant BR, Schepaschenko D, Mast CN, & Williams NG. “Climate change threatens the sustainability of current timber harvesting practices across a latitudinal gradient in Siberia.” European Journal of Forest Research (2025). https://doi.org/10.1007/s10342-025-01782-5\n\n\nMast CN, Williams NG, Betts MG, & Lucash MS. “Land sharing, land sparing, and Triad forestry: modeling forest composition, diversity, and carbon storage under climate change and natural disturbances.” Landscape Ecology (2025). https://doi.org/10.1007/s10980-024-02041-5\n\n\nLucash MS, Mast CN, Williams NG, Strimbu BM, & West T “Landscape level planning: a modeling approach.” In: Oregon State University College of Forestry (ed) Elliott state research forest management plan. (2023) Oregon State University, Corvallis, pp 99–119. https://www.forestry.oregonstate.edu/elliott-state-forest/forest-management-plan"
   },
   {
     "objectID": "research.html",
@@ -103,26 +131,5 @@
     "title": "Research",
     "section": "Balancing Ecosystem Services in the Elliott State Research Forest",
     "text": "Balancing Ecosystem Services in the Elliott State Research Forest\n\nLand sharing vs sparing vs Triad forestry\n\nThe Elliott State Forest, Oregon’s oldest state forest, has long been at the center of debate over public land management. One proposed resolution is the establishment of the Elliott State Research Forest (ESRF), designed to balance timber production, climate change mitigation, endangered species conservation, and recreation. Supported by the Oregon Department of State Lands and in collaboration with Oregon State University, this project contributed to the development of the ESRF’s forest management plan. At the center of this plan is the experimental comparison of land sharing, land sparing, and Triad management. Using LANDIS-II, we simulated forest successional processes, management activities, natural disturbances, and multiple climate trajectories to inform sustainable management strategies and compare trade-offs between these three conservation strategies.\n\n\n\nRead more here: https://doi.org/10.1007/s10980-024-02041-5"
-  },
-  {
-    "objectID": "teaching.html#guest-lectures",
-    "href": "teaching.html#guest-lectures",
-    "title": "Teaching",
-    "section": "Guest Lectures",
-    "text": "Guest Lectures\nFa 2025 — Forestry 321: Forest and Natural Resource Biometry\nFa 2024 — Forestry 321: Forest and Natural Resource Biometry\nWi 2024 — Environmental Studies 410: Landscape Ecology\nFa 2023 — Geography 482/582: Geographic Information Science II"
-  },
-  {
-    "objectID": "teaching.html#lab-instruction",
-    "href": "teaching.html#lab-instruction",
-    "title": "Teaching",
-    "section": "Lab Instruction",
-    "text": "Lab Instruction\nFa 2024 — Forestry 321: Forest and Natural Resource Biometry\nSp 2024 — Geography 489: Mapping with Drones\nFa 2023 — Geography 482/582: Geographic Information Science II\nSp 2023 — Geography 410L/510L: Mapping with Drones\nWi 2023 — Geography 141: Natural Environment\nFa 2022 — Geography 323: Biogeography"
-  },
-  {
-    "objectID": "teaching.html#workshop-instruction",
-    "href": "teaching.html#workshop-instruction",
-    "title": "Teaching",
-    "section": "Workshop Instruction",
-    "text": "Workshop Instruction\nFa 2023 — Geography 608: Graduate Student Workshop\nWi 2023 — LANDIS-II Base Fire Calibration Training"
   }
 ]

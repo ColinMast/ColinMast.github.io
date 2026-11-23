@@ -10,7 +10,7 @@ Vary across a climatic gradient in Western US conifer forests
 
 High-severity wildfires are a growing concern in the Western U.S. due to climate-driven fire season expansion and increased fuel loading and continuity from decades of fire exclusion. However, it remains unclear how the relative influence of fuels versus climatic departure on high severity burn area vary across long-term climate gradients. We delineated CWD-defined climate regions (mesic, intermediate, xeric) and evaluated how fuel availability, heterogeneity, connectivity, topography, and climatic departure influence extreme (95th percentile) high-severity burn area in over 4,000 burned conifer watersheds from 1986 to 2024. Fuel variables were important across all regions but had the strongest effects in xeric watersheds. Short-term climatic departure (VPD during the month of ignition) was also an important driver in xeric systems but played a minor role in mesic forests. Conversely, long-term climatic departure (five-year CWD) was the strongest predictor in mesic forests, suggesting that multi-year drought is particularly influential in these infrequent-fire regimes. Our results demonstrate that the drivers of high-severity burn area vary predictably across CWD-defined climate gradients and highlight the need for region-specific strategies to manage large, high-severity fires. 
 
-![Research in progress.](media/HSBA.gif){width="100%"}
+![Research in review.](media/HSBA.gif){width="100%"}
 
 
 ## Satellite-derived Geospatial Fuel Products 
@@ -20,7 +20,7 @@ To aid Upper Rio Grande fuel treatment planning
 
 Dry forests in the western US are exposed to heightened risks of large high-severity fires and limited forest regeneration as a result of fire exclusion and climate change. Given significant limitations on time and resources for implementing and monitoring fuel treatments, availability of up-to-date, accurate, high-resolution, and updateable data products characterizing forest structure and fuel conditions could make a meaningful contribution to strategic planning and monitoring of fuel treatments. To aid in fuel treatment planning in Northern New Mexico, we are developing geospatial data products characterizing forest structure and fuel conditions by training satellite synthetic aperture radar (SAR) and multispectral imagery using measurements of forest structure and fuel conditions derived from airborne lidar and forest inventory plot data. 
 
-![Research in progress.](media/EngelmanSpruce.jpg){width="100%"}
+![Read more here: <https://doi.org/10.1186/s42408-026-00605-1> ](media/EngelmanSpruce.jpg){width="100%"}
 
 
 ## Methods of CBH Characterization
@@ -30,7 +30,7 @@ Vary across data source and summary method
 
 Canopy base height is an integral variable in wildfire behavior modeling. However, as fire models have been applied to increasingly diverse forest structures and as remote sensing technologies have advanced, a variety of methods for characterizing CBH have emerged. In this project, we summarize the primary approaches for CBH characterization using field observation, airborne LiDAR, and satellite-based machine learning models, highlighting their assumptions, scales, and limitations. We then apply these methods across 100 field sites within four forest types in northern New Mexico to evaluate how method choice and forest structure influence CBH characterization. These CBH measurements were then applied in Rothermel-based models to compare methodological effects on predicted torching indices. 
 
-![Research in review.](media/CBH_map.png){width="100%"}
+![Read more here: <https://doi.org/10.1186/s42408-026-00567-4> ](media/CBH_map.png){width="100%"}
 
 
 ## Future Drought Impacts
