@@ -41,6 +41,10 @@ Gustafson EJ, Lucash MS, Shvidenko AZ, Sturtevant BR, Schepaschenko D, **Mast CN
 
 ## Other Publications
 <div class="hanging-indent">
+**Mast CN**, Vallet L, Zald H, Hurteau MD, Jones GM, Woolsey GA, Tinkham WT, Hoffman CM, & Francis EJ. "Methods and implications of canopy base height characterization for modeling crown fire potential Research Brief." Southern Rockies Fire Science Network (2026). <https://www.southernrockiesfirescience.org/research-publications-1/2026/11/18/research-brief-methods-and-implications-of-canopy-base-heightcharacterization-for-modeling-crown-fire-potential/>
+</div>
+
+<div class="hanging-indent">
 **Mast CN** "Simulating Forest Dynamics, Disturbance, and Management in the Elliott State Research Forest, Oregon: A Comparative Study of Land Sharing, Land Sparing, and Triad Management." MS Thesis. University of Oregon (2024). <https://scholarsbank.uoregon.edu/bitstreams/3b7ffa0d-378e-41f6-b7e4-bd91e3449620/download>
 </div>
 

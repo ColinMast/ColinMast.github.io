@@ -87,7 +87,7 @@ In May 2026, joined by fellow FRANCIS lab member Ashley Zwick, I led a week of f
 
 In fall 2026, joined by Dr. Emily Francis, Dr. Lilian Vallet, and Charlie Heinritz, I led a 3 week field campaign in the Carson and Santa Fe National Forests of northern New Mexico. We measured forest and fuel structure in 130 post-treatment, wildfire, and control plots to assess 4D-FUELS' performance in recently disturbed forest. This work was funded by the Joint Fire Science Program's Graduate Research Innovation Award.   
 
-::: {layout-ncol= 2}
+::: {layout-ncol=2}
 ![Monsoon storms made for muddy conditions in the Questa District ](media/Monsoon.jpg)
 
 ![Aspen regen in a high-severity Hermits Peak wildfire plot](media/HermitsPeak.jpg)
